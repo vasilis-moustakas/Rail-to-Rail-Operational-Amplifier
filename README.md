@@ -1,4 +1,4 @@
-# Break System Plausibility Device (BSPD)
+# Design of a Rail-to-Rail Operational Amplifier
 ## Project Report
 * Project Report is [Here](https://github.com/vasilis-moustakas/Rail-to-Rail-Operational-Amplifier/blob/main/Design_of_a_Rail_to_Rail_Operational_Amplifier%20.pdf)
 ## Circuit Preview
